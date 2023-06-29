@@ -19,7 +19,7 @@ Este script em Python permite gerar um Hash code a partir de uma string utilizan
 
 3. Abra um terminal e navegue até o diretório onde o arquivo "hash_generator.py" está localizado.
 
-4. Execute o seguinte comando para gerar um Hash code a partir de um arquivo:
+4. Execute o seguinte comando para gerar um Hash code a partir de um arquivo: python hash_generator.py
 
 5. O Hash code será exibido no console.
 
